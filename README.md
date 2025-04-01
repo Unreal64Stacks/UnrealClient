@@ -2,7 +2,7 @@
 
 ![Unreal](https://github.com/Unreal64Stacks/UnrealClient/blob/main/assets/anime.gif)
 # IMPORTANT
-All previous issues should be solved with the latest release 
+Our old GitHub account has been terminated, but don’t worry—UnrealClient is still here! We’re setting up a new repository, so stay tuned for updates.
 
 # Features
 #### Auto Harp/Exprimantel table ( `Ping Adjustable` )
