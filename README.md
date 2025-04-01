@@ -1,6 +1,6 @@
 # Announcing UnrealClient
 
-![Unreal](https://github.com/Unrealsforkick/UnrealClient/blob/main/assets/245837716-a212304a-055e-4e1a-8a92-3b53bc4201ab.gif)
+![Unreal](https://github.com/Unreal64Stacks/UnrealClient/blob/main/assets/anime.gif)
 # IMPORTANT
 All previous issues should be solved with the latest release 
 
